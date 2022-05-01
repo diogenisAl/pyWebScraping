@@ -26,9 +26,9 @@ Web scraping with Python
 
 
 ## Προετοιμασία
-Η σελίδα που θα βασιστεί το παράδειγμα μας είναι η  [corfuland](http://www.corfuland.gr/el/mikres-aggelies-kerkyra/aggelies-enoikiasis-katoikiwn-stin-kerkyra).
+Η σελίδα που θα βασιστεί το παράδειγμα μας είναι η  [corfuland](http://www.corfuland.gr/el/mikres-aggelies-kerkyra/aggelies-enoikiasis-katoikiwn-stin-kerkyra)
 1. Ρίξτε μια ματιά στην όψη της
-<br>και κυρίως
+<br>και στη συνέχεια
 2. μελετήστε τη δομή της (προβολή πηγαίου κώδικα)
 
 
