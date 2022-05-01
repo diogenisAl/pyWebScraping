@@ -25,6 +25,12 @@ Web scraping with Python
 <br>
 
 
+## Προετοιμασία
+Η σελίδα που θα βασιστεί το παράδειγμα μας είναι η  [corfuland](http://www.corfuland.gr/el/mikres-aggelies-kerkyra/aggelies-enoikiasis-katoikiwn-stin-kerkyra)
+
+
+<br>
+
 
 ## Εξάσκηση
 
