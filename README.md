@@ -4,7 +4,7 @@
 Web scraping with Python
 
 <br>
-<br>
+
 
 ## Εισαγωγή
 
