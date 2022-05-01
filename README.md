@@ -12,6 +12,15 @@ Web scraping with Python
 
 *Πηγή: [wikipedia.org](https://en.wikipedia.org/wiki/Web_scraping)*
 
+
+
+<br>
+
+
+## Εξάσκηση
+
+Μελετήστε τον κώδικα στο αρχείο [corfuland_houses.py](/source_code/corfuland_houses.py).
+
 ---
 
 Το αποθετήριο αξιοποιεί το υλικό που έχει δημιουργηθεί από την εκπαιδευτική ομάδα του [Ιωάννη Καρύδη](https://github.com/ioanniskarydis).
