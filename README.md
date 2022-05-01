@@ -12,9 +12,19 @@ Web scraping with Python
 
 *Πηγή: [wikipedia.org](https://en.wikipedia.org/wiki/Web_scraping)*
 
+<br>
+
+
+
+
+## Βιβλιοθήκες
+* [bs4](https://pypi.org/project/bs4/)
+* [time](https://docs.python.org/3/library/time.html)
+* [selenium](https://www.selenium.dev/)
 
 
 <br>
+
 
 
 ## Εξάσκηση
