@@ -19,7 +19,7 @@ Web scraping with Python
 
 ## Εξάσκηση
 
-Μελετήστε τον κώδικα στο αρχείο [corfuland_houses.py](/source_code/corfuland_houses.py).
+Μελετήστε τον κώδικα στο αρχείο [corfuland_houses.py](/source_code/corfuland_houses.py)
 
 ---
 
