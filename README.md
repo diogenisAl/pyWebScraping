@@ -1,4 +1,3 @@
-## Under Construction
 # pyWebScraping
 
 Web scraping with Python
