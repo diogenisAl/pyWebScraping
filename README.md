@@ -21,6 +21,9 @@ Web scraping with Python
 * [time](https://docs.python.org/3/library/time.html)
 * [selenium](https://www.selenium.dev/)
 
+* [smtplib](https://docs.python.org/3/library/smtplib.html)
+* [ssl](https://docs.python.org/3/library/ssl.html)
+
 
 <br>
 
